@@ -29,6 +29,17 @@ Kelas: TI.22.A2
 
 ![Screenshot 2023-10-09 204934](https://github.com/Alifiananda06/Project-UAS-1-B.-Pemrograman/assets/115884834/6a508db4-db9e-4d21-a0dc-a1dceab8b7e8)
 
+# Membuat CSS Eksternal
+
+![Screenshot 2023-10-09 205326](https://github.com/Alifiananda06/Project-UAS-1-B.-Pemrograman/assets/115884834/6e1e501a-f3bc-43a7-a7e3-a3beb8b9da0c)
+
+
+![Screenshot 2023-10-09 205345](https://github.com/Alifiananda06/Project-UAS-1-B.-Pemrograman/assets/115884834/d61ed0ed-13f7-4e32-92ab-23963988da1a)
+
+# Menambahkan CSS Selector
+
+
+
 
 
 
