@@ -38,6 +38,32 @@ Kelas: TI.22.A2
 
 # Menambahkan CSS Selector
 
+![Screenshot 2023-10-09 205517](https://github.com/Alifiananda06/Lab2Web/assets/115884834/704325fd-4669-4238-97a7-4082d5521238)
+
+
+![Screenshot 2023-10-09 205529](https://github.com/Alifiananda06/Lab2Web/assets/115884834/980b9784-33f6-487d-8575-a613c9881a45)
+
+# Pertanyaan dan Tugas
+
+# 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
+
+di sini saya melakukan perubahan pada body :
+
+![Screenshot 2023-10-09 211411](https://github.com/Alifiananda06/Lab2Web/assets/115884834/eac046cf-8660-4ea1-b1a8-69b81b8788be)
+
+
+![Screenshot 2023-10-09 211450](https://github.com/Alifiananda06/Lab2Web/assets/115884834/13efde92-95e7-46a7-935d-22750a7a8ca8)
+
+# 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya!
+
+perbedaaannya jika hanya h1{} maka akan merubah semua yang ada didalam elemen h1 sedangkan intro h1 hanya akan merubah yang memiliki tag intro.
+
+
+
+
+
+
+
 
 
 
